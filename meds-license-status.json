@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "publishSequence": 14,
-  "publishedAtUtc": "2026-08-26T12:58:06.2179685+00:00",
+  "publishSequence": 15,
+  "publishedAtUtc": "2026-08-26T12:58:56.065477+00:00",
   "signingKeyFingerprint": "SK1-9D09-6999-3A72-054A",
   "licenses": [
     {
@@ -15,5 +15,5 @@
       "updatedAt": "2026-08-26T12:58:04.0959396+00:00"
     }
   ],
-  "signature": "SyvTsGwlFqgEcc6dZl\u002B\u002BrSn9U8EStgqwsvF4vwx7Qj7OksxG\u002Bq6my2XsZr7qwAdzBtv52syaEUOiCVNHJyN6zh2xkGWV9ykd9ATEAxHgiPv1LeJsO3Ap17CdQtlCq1YZJlyXZV8jcOK4bhChtj084/jTinP6ZBv0upiJv\u002BrGhMS2APtXyybDgtHmHKkQNhBqNGn15/jD1jNj6DCETlMhM3Gkjf5qXCpOB7VxDsISg6ZqhDm3q6GVY3BPQv26pZRDhjWv6oS/brlC5MAFI3T\u002Bj2d1fysJG3rgWmsxL1HpvuRYQjNoYjsHUN6lyd1cixfZcFoRniOOdrxUzj9WTZSBZRgBZdez7Rvxnm5yadsqQzEvRbYTce/mopSyTaKoYRa8a1skJuTXwvNi4cNIunzzU3BMLV4Qhi3iT\u002BdH2MtiFoKY5pvXuRlv4\u002B9NAYdZxDyi4z\u002BU/a\u002BlmnqjYGQ11Ca4gQvvF2wfM5aQyqKt8Zr2lLyA5i29lj1H9\u002BVGctlw4rjl"
+  "signature": "TiOURWvuO\u002BL3CQvVKegT58Uzqc8VvZ7H9idNJbWmE2os0r2WQfhgno1xVuj/I7RjdUvNGV6weKWdZ5Pb/CE\u002BzNWXU3r1X5v3/mBmc2evyHVypYeaSfbLvarIoWDk7Qg1ycbxngNQAzePKhcTMtOEmJyQCQkIrtxVe456M5FWfWZC9Bo5nFjXWkooLbwFSH\u002B9VQbgOfqC4qYtgBVokC0Znkx\u002B5Tf4mWUraefzR09TY8WFiaGlfkLw3vfQl40mL6WNJ\u002BI7mZD7r2x2iHufacXC\u002Bv7w3xXk\u002BDprPxDx9\u002B7Jf55N5DWgnKcfZJ9FAIOTAY3ENiDt9Z1k57pcWAqfXdEisfPCAIHcXVkeJeoli3tJApxmDCTY83c57RHrESIv/AOu8Qopf5sYIw5pJGtPwk/2SDnUzljcNf7NLPvYrl5oI/pfbMmzHHrMNTZrO7R56rr\u002Bm5OfCnthfoRP23BuN8hgIZvZnr9c3k23Ms6BDmXIjxXOyU2VXWxrfpcyCd0LsBoy"
 }
