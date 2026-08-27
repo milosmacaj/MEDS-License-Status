@@ -1,19 +1,20 @@
 {
   "schemaVersion": 1,
-  "publishSequence": 28,
-  "publishedAtUtc": "2026-08-27T09:00:55.9321558+00:00",
+  "publishSequence": 29,
+  "publishedAtUtc": "2026-08-27T09:08:20.2427228+00:00",
   "signingKeyFingerprint": "SK1-9D09-6999-3A72-054A",
   "licenses": [
     {
-      "licenseId": "c451b1d4-1a6d-4104-a133-5dc730253fff",
-      "licenseKeyHash": "0C8D05B35B304BC33A235FCFABF6461C151EDD9E9933A6930F01FDA67B37F7C1",
-      "status": "BLOCKED",
+      "licenseId": "1cee1388-84bf-4cff-8dc9-6dc7e18447db",
+      "licenseKeyHash": "5FC6E148C619ADAB57D1FE8FAA390DBE891AE81692D67C8C70AD1A0F4627D66B",
+      "status": "ACTIVE",
       "validUntil": null,
       "applications": [
-        "MEDS_DXF_EXPORTER"
+        "MEDS_DXF_EXPORTER",
+        "MEDS_NESTING_APP"
       ],
-      "updatedAt": "2026-08-27T09:00:51.4185756+00:00"
+      "updatedAt": "2026-08-27T09:05:08.5309486+00:00"
     }
   ],
-  "signature": "eK5FsKnR4LbWW/YB9RCpm0EpDojKpNGWxbp\u002B7ewZce7leK3LQ4iMfkRPBOuDUac/ILDi77tz2ZAuIHFKCedODp9DOS54zD2biy36MCPfUynnogl85t2PQ4/ZIKm5uqAz0TOP3wOlG9VRHpE5ySUKbCtgxXo2/sXYuBClV51BUQrbCsCa2uvj\u002BMuwGMByhDTdsnx/c2OEOCWU5E8\u002BJSbaNDKi3AsIIlhZHib/fk06vzmcuby/Rq5Zb0EQMCYeY1HRXK9eD14FndKv63yoev0RMGY2g6CdMy8\u002B7PucB05kg\u002B1JLaDhgwcHjW84WT0iy3XJ6k/7tRkHgN3fSHN\u002BYx/E47dTpXmucIInj1nnIPXgLNDBldMIDxK2T7F14Nna7pIvlfVZvRHicrkwL8JFzYfSL1jaVUXIaCo\u002Bql4x\u002BR2nqvbbjWUkO\u002Bd0\u002Bjwz5W80C3XgsFuEXfaTyhuMUCSag5qjUzelnM5yMETcSsXQa9YrP2nEbri9nyz3v9ljmyOrooN6"
+  "signature": "fdVZ5jOEci\u002B2Rm15WYweIfkJqt6Ys1tdg31BhyS/FVGXvKlp30V76Vs6ggPRXv1HDFSRA\u002BFOgZD8ns4/prRFd\u002BEnoTxq/H6O9ZX9CKWIk\u002BiR\u002BH\u002B9GZCp22POFeAvwPiSdFyVkH4VdNZ4pqKSGu8Dwe7IV8d\u002BId5FxyiPdZu5KDg91siacnryRRdfpPWNiSzFusCDHdc8zlFUlrVXWAUI2y2ogmHqcusCAhUt9HX/9P20qriZHA9EDYh4vjBFqUk/RncTPkk3xUG/mnXYpjC0XLLxIhaI40saBeEydtSnZ6riFKMJZuC\u002BiLh9SpyyhjrY16ZAvF1l0vIqh1i4LYI/Z4z7czdZUd4iPmp4nQT\u002B6/FD6I5q9JtgRIA24zOxV23gPSy/oK9xiCm2DE8d\u002BCPa43BLm9j/IRXVk/N66i\u002BfkaffOUTF9tS0Het6ehMOUm3jfuPMMVnJ6spwdxhRGSNByjZPbber09HGgwrnwKJL8\u002BYQSXz3PCyaFyF/nxNXlfVf"
 }
