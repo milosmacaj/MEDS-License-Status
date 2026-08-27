@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "publishSequence": 30,
-  "publishedAtUtc": "2026-08-27T09:09:26.5951748+00:00",
+  "publishSequence": 31,
+  "publishedAtUtc": "2026-08-27T09:36:33.4911764+00:00",
   "signingKeyFingerprint": "SK1-9D09-6999-3A72-054A",
   "licenses": [
     {
       "licenseId": "1cee1388-84bf-4cff-8dc9-6dc7e18447db",
       "licenseKeyHash": "5FC6E148C619ADAB57D1FE8FAA390DBE891AE81692D67C8C70AD1A0F4627D66B",
-      "status": "BLOCKED",
+      "status": "ACTIVE",
       "validUntil": null,
       "applications": [
         "MEDS_DXF_EXPORTER",
         "MEDS_NESTING_APP"
       ],
-      "updatedAt": "2026-08-27T09:09:21.5889438+00:00"
+      "updatedAt": "2026-08-27T09:36:27.5342284+00:00"
     }
   ],
-  "signature": "bNb4Js8Zn2QUxQWwZonkUZsRTF8ZktoH9HgztkkzQMbyZPY8vdJlQRJ9H\u002BUPmvwNLH8n0FZ/Nzigu\u002By99VK80tP36VRMgSZdejHDRxB6vqH\u002BThQ8CxrNVagC7/4ay9XFGrla66fUicV\u002BfbiDh\u002B5Tr/IaRwYyP7JO5cCcm5EtCANsGSah9TlHlx9/pq62ehcQxq7rIIZKZNIXGCYVdZXMHA/wiKuLzwTVSA166t3N224QW29kV4zdtRD0bgBY9pvt\u002BEAWCrfp0oSeJA5Oq09boygVff2BF/UzCYuybv1yG5TDrn3Wf0ZYABG\u002B9xWTEsiK96TG68tmARvda63sCDO18fZd4IyvhdGiaJtvXPFaGShrbVDRTwtDZSha3HSzJxNDJFjb4LTSHiEXR/zGGz4pkoqIS7JDUVgm24dnObJaF/TI4zC0\u002BSqkZug6AkubNlQINIy9\u002BHqZYi8d\u002BbF9BSZgCta0xIbWO5Diq/Tyy2v/q5v3obRg4kjGia1YvXDJfixQ"
+  "signature": "Y/BJaMQKG/kYT2mCaAg3sWyenpMMyCnJs7tZS47KTW5rWt90NVeG5dMObuCnUbhfSIlJzQ6GWUblIgJljoi4OI/qCF3sjwSHDXDgxv5fX3vrljLl96MlFVdMeyj3icZXYZ32dtJbM\u002BShyM54fzgbPWP77\u002BLjtktWvwR72TC\u002B7lZNfi/kSw4z8tgkxZ4G/XQFeb0DnpyohALBbUkbTi5VSaPR1/sIp0\u002BwF3TJ2qY7NLz1iO5mLRqgg\u002B4FMlSfN5L\u002BupCxCiUBVQQFyuAS428rsKRPX0r2Ld1ilREKprPrLBOE\u002Bukt6UfY8lhHNrOzpqCQL0bkFdta0VgXiWN/vutwRSIYxS0KMxAh\u002BDV23e2pPZaYvOxD0H7PDXdTBePo97fRR284o23WK6i8oteNFJoOIShcCJ961g4dIIw3uPsjFo8JI3YAGNj8VTWLMPIkBzFAx6QJ/kEduUeS5jwd6m49GVMRI2flBq7rY\u002BPPg1R843NwGzwN\u002BVirLmtRTSqZxNoN"
 }
