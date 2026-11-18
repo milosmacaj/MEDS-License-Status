@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "publishSequence": 57,
-  "publishedAtUtc": "2026-11-05T14:10:01.3128272+00:00",
+  "publishSequence": 58,
+  "publishedAtUtc": "2026-11-18T07:32:13.4196144+00:00",
   "signingKeyFingerprint": "SK1-9D09-6999-3A72-054A",
   "licenses": [
     {
@@ -10,12 +10,11 @@
       "status": "ACTIVE",
       "validUntil": null,
       "applications": [
-        "MEDS_BOM_COMPARE_APP",
         "MEDS_DRAWING_EXPORTER",
         "MEDS_DXF_EXPORTER",
         "MEDS_NESTING_APP"
       ],
-      "updatedAt": "2026-11-05T10:12:54.1761427+00:00"
+      "updatedAt": "2026-11-18T07:31:50.0940684+00:00"
     },
     {
       "licenseId": "b574bca3-1a18-4866-a013-5f0d0c93a08b",
@@ -28,5 +27,5 @@
       "updatedAt": "2026-11-05T14:09:48.6330826+00:00"
     }
   ],
-  "signature": "Qa\u002BkoYK9xsH12Sq8VvyWh6psMXL5Ez7Mo3GMNNUMJT0DcFnoCibx7ePKQpxwZ7/qFD03\u002Bx4NPX83MMJRY/W7wUHdgeKV4WMcFTxTqM89ifquzXnDf9yc\u002Brmpg8TeIXK1Ysqf\u002BhexPNPXZn8JpMd78VGiCLtiq4q4Fd2hs8CmMpEHgtcWpyYBHw3yYZVTPCaOU5fvO\u002BrFwYduPCmXhxndNSCclb2Bam6UxtYry2v45711w7Z/4jja83CSLrSCyRp8ATXmNDJxv7xSXAYlhOwR06pRkPN5pwudq/LQFzcCx5qITy/MQ4j3CLRgm5\u002BIn6kbdsKWQ7V1vqyHggXjQqyC25bTElSuJzotCxxX1delFKftqfy\u002Bg4SlifbLJqsB4ztgB5idK3nGzqfb20BhZaJzno97wZgnu\u002BUoa9p94rZxLwwdw2FpFRrw0IBAKH5aZ9OMH32Q1nIq7nvoZ0PUBNqJV1dmPLetqh7IDaXpcnnUj9YztqC2s5hmkgo1l4nsBWAe"
+  "signature": "KVNPn4ZBHj9e\u002BOwZDeOXPcj6KaCYHW\u002BnjAt9fHy6kOBmQx1gQ7kzWQXz9Pcvh5C8siCaNHioxYcGlNtbkqb5KwBWMx\u002BqDiNXbvvk3VSrGzHMBJYbGm57q0rp9VNjAjZZJGzLmo20BLEKgtq1MIQQ2tFlflE7QDmDy7UtBhnU2o6h8SHE0WvAWoQCTUatF3VVhkSzzFKB1hFH9UGXhmELc9gH6ME5VbA6SR7poJAf6EQH43OE3hEKCIZNEFuUe4bqGI9lGgi/gIx6CU4fZe9/FVQp4/F2cZtocbm/xH7YSS/dos\u002BFqgZgsVWJmfyJyKx/2QGlTa4FOAs17c18gxQVtLKGrw8f\u002BWakZT0A3dXkekyJ/FSvp6KcBWWTemgbC76Ve60YHFk0cwpsk5F09NO9wtXQsTjXn\u002BYNLuE5hsNNmZNhKsn//qZQUduEe\u002B3pZqPSoEHAHizT88UUBW0OdbSIY46EYrTheZC397NnDOPkRVsiyON0F1zaouZl2g4Qe/Ly"
 }
